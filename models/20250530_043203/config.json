@@ -1,0 +1,8 @@
+{
+  "d_model": 32,
+  "nhead": 8,
+  "num_layers": 2,
+  "dim_feedforward": 128,
+  "dropout": 0.19256069222601313,
+  "lr": 0.00010386771034981831
+}
