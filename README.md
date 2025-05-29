@@ -5,4 +5,4 @@
 ---
 
 - **驗證Transformer encoder單次輸入最佳週數**  
-   ![alt text](rmse_tx_trial5.png)
+   ![alt text](Find_input_weeks\rmse_tx_trial5.png)
