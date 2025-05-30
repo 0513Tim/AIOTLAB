@@ -23,6 +23,7 @@
    期間只要 val_RMSE(Tx) 進步就會把: `best.pt` / `config.json` / `scaler.pkl`  ---> `models/yyyyMMdd_HHmmss/`
 
    #### 2. 用最佳權重做逐時 RMSE 評估並畫圖
-   `python evaluate_hourly.py models/20240530_142530`
+   `python evaluate_hourly.ipynb`
+   
 
    
