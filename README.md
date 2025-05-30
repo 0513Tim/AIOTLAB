@@ -25,5 +25,17 @@
    #### 2. 用最佳權重做逐時 RMSE 評估並畫圖
    `python evaluate_hourly.ipynb`
    
+   #### 以下為使用2020~2024年資料訓練之模型預測2025年氣象資料之實驗結果
 
-   
+     
+   #### 氣溫，單位: °C
+   ![rmse_tx](https://github.com/user-attachments/assets/f5ee5d89-3d5a-4b02-8063-79381ca04546)
+   ![timeline_tx](https://github.com/user-attachments/assets/631a13e2-1f5c-4e4b-91e0-51aeba51e6b7)
+
+   #### 相對溼度，單位: %
+   ![rmse_rh](https://github.com/user-attachments/assets/da17eeb7-1d31-4b2d-a8f3-95e226829366)
+   ![timeline_rh](https://github.com/user-attachments/assets/e6d5539b-f4bb-47c0-b82b-a03edafd800a)
+
+   #### 該小時降水量，單位: mm
+   ![rmse_precp](https://github.com/user-attachments/assets/ccf022c8-948d-4c37-8c36-30a11a09316f)
+   ![timeline_precp](https://github.com/user-attachments/assets/a867ccfe-eb5a-4c33-ba28-f21fb0f6cb81)
