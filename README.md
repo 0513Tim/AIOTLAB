@@ -47,7 +47,14 @@
   ![image](https://github.com/user-attachments/assets/54a4ef35-0fb5-4976-aba7-d87b0f78d083)
   ![image](https://github.com/user-attachments/assets/2d861967-4130-4400-9c84-40b12e28bb29)
 
-  
+  #### 修正evaluate bug並將模型架構改為先將溫度、降雨等資料去平均，再學習變化輛特徵
+  ![image](https://github.com/user-attachments/assets/2f010a7b-236c-4f2d-b597-49eab2295b9b)
+  ![image](https://github.com/user-attachments/assets/621def56-32ed-4f86-be4f-825a6a9a0de8)
+  ![image](https://github.com/user-attachments/assets/1f5fc933-654e-4052-94d9-2979fefcf490)
+  ![image](https://github.com/user-attachments/assets/54ae44a7-1562-416c-8341-7085be059bd1)
+
+
+
 
 
   
