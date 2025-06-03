@@ -25,7 +25,7 @@
    #### 2. 用最佳權重做逐時 RMSE 評估並畫圖
    `python evaluate_hourly.ipynb`
    
-   #### 以下為使用2010~2023年466920觀測站資料訓練之模型預測20250521~20250528氣溫之部分實驗結果
+   #### 以下為使用2010 ~ 2023年466920觀測站資料訓練之模型預測20250521 ~ 20250528氣溫之部分實驗結果
 
    ![timeline_tx](https://github.com/user-attachments/assets/29da9b07-e43f-4a89-bd68-32fd7d4a9da6)
    
