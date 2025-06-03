@@ -1,0 +1,12 @@
+{
+  "input_dim": 7,
+  "output_dim": 7,
+  "d_model": 192,
+  "nhead": 8,
+  "num_layers": 6,
+  "dim_feedforward": 1152,
+  "dropout": 0.1791047466451577,
+  "lr": 0.0003937085482447773,
+  "weight_decay": 0.00010611256225820281,
+  "diff_w": 0.1
+}
