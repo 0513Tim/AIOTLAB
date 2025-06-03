@@ -37,6 +37,19 @@
 - ## **自回歸單時間部多氣象站資料預測**
 
   #### 架構將修正為每次預測僅讀取前1小時資料預測下1小時資料，讀取與預測項目包含所有氣象站之所有資料
-  ![image](https://github.com/user-attachments/assets/894d70f4-5ccf-4931-8984-289903b6ed26)
-  ![image](https://github.com/user-attachments/assets/c42329b9-9492-4818-aea0-94e76b69b83f)
+  ![image](https://github.com/user-attachments/assets/0b9e1268-0256-4ec7-afea-ef1a544f67ed)
+  ![image](https://github.com/user-attachments/assets/5e8b849e-6e49-4876-a44c-7b8b124f2456)
+
+
+  #### 架構將修正為每次預測僅讀取前24小時資料預測下1小時資料，且將降雨獨立head處理是否降雨與降雨量
+  ![image](https://github.com/user-attachments/assets/554e8417-b40d-4481-abe3-76b338c0e1d0)
+  ![image](https://github.com/user-attachments/assets/7c3162cc-21e5-44ac-a150-b7845b81e41f)
+  ![image](https://github.com/user-attachments/assets/54a4ef35-0fb5-4976-aba7-d87b0f78d083)
+  ![image](https://github.com/user-attachments/assets/2d861967-4130-4400-9c84-40b12e28bb29)
+
+  
+
+
+  
+
 
